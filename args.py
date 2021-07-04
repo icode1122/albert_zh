@@ -5,6 +5,7 @@ tf.logging.set_verbosity(tf.logging.INFO)
 
 file_path = os.path.dirname(__file__)
 
+ # manisha was here
 
 #模型目录
 model_dir = os.path.join(file_path, 'albert_lcqmc_checkpoints/')
